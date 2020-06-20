@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# archivos propios
+test.csv
+train.csv
+comment.csv
+*.pkl
