@@ -132,4 +132,5 @@ dmypy.json
 test.csv
 train.csv
 comment.csv
+comments.csv
 *.pkl
