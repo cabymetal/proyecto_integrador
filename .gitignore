@@ -134,3 +134,4 @@ train.csv
 comment.csv
 comments.csv
 *.pkl
+app_credentials.py.txt
